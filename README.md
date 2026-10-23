@@ -1,7 +1,16 @@
 # EV Challenge - GoodWe | Sprint 04
 
-Implementação adicionada ao repositório da Sprint 3. Os notebooks originais foram preservados. **Status: auditoria histórica executada; avaliação ao vivo por LLM juiz pendente de credenciais. O PDF é um relatório parcial honesto, não uma alegação de entrega integral concluída.**
+### Equipe
 
+Nome Completo | RM | Função | GitHub |
+| :--- | :---: | :--- | :---: |
+| **Enzo Seiji Delgado Tabuchi** | 573156 | ⚙️ Backend / 🤖 IA | [@enzo-tabuchi-github](https://github.com/enzotabuchii) |
+| **Henrique Almeida Lucareli** | 569183 | 📊 Dados / 📱 Mobile | [@henrique-lucareli-github](https://github.com/HenriqueAlmeidaLucareli) |
+| **Leonardo Scotti Tobias** | 573305 | 🎨 Frontend | [@leonardo-scotti-github](https://github.com/leonardo-scotti) |
+| **Luca Almeida Lucareli** | 569061 | ⚙️ Backend / 📊 Dados | [@luca-lucareli-github](https://github.com/LucaLucareli) |
+| **Natan Silva da Costa** | 573100 | 📱 Mobile / 🎨 Frontend | [@natan-costa-github](https://github.com/natan-costa01) |
+
+---
 ## Conteúdo
 
 - `data/golden.json`: 24 perguntas, gabaritos, contexto de referência e histórico de memória.
