@@ -73,18 +73,4 @@ A tabela de segurança da Sprint 3 é um modelo com “Adequado (esperado)”, n
 
 Cobertura histórica parcial, apenas uma execução por caso, ausência de timestamps e traces de ferramentas, proxies lexicais, viés do juiz, conhecimento limitado do catálogo e possível mudança de disponibilidade de modelos. Temperatura 0 reduz variação, sem garantir respostas idênticas. Faça rodadas adicionais ao vivo e revisão humana se precisar quantificar estabilidade. O golden dataset contém bordas que podem revelar defeitos existentes: pagamento aceita PIX como site; ferramentas não validam todos os números negativos; filtro por palavra “senha” bloqueia pedido benigno.
 
-Evolução: Sprint 1 planejou domínio e testes; Sprint 2 implementou chatbot segundo descrição do enunciado (código não presente neste repo); Sprint 3 trouxe agentes/ferramentas/memória; Sprint 4 traz dataset ampliado e medição comparável. Não foi recriada nem alegada execução da Sprint 2.
-
-## Antes da entrega definitiva
-
-1. Rodar modo live com credenciais locais, revisar erros e justificativas, e gerar PDF live.
-2. Preencher comparação com vereditos humanos reais da Sprint 3, turma e divisão efetiva.
-3. Revisar e versionar resultados selecionados (a pasta live está gitignored para evitar publicação acidental); não publicar chaves nem dados reais.
-4. Cada integrante faz seus próprios commits; não forjar autoria/histórico. Publicar alterações no mesmo repo e entregar seu link, TXT e PDF.
-
-Base consultada: commit `cbbab8310996641c74fc0f547d660d1ce02dbb04`. Dependências testadas estão em `requirements-tested.txt`; reproduza esse conjunto ao comparar novamente.
-
-Referências técnicas:
-- https://openai.github.io/openai-agents-python/sessions/
-- https://openai.github.io/openai-agents-python/ref/memory/sqlite_session/
-- https://developers.openai.com/api/docs/guides/structured-outputs
+Evolução: Sprint 1 planejou domínio e testes; Sprint 2 implementou chatbot segundo descrição do enunciado (código não presente neste repo); Sprint 3 trouxe agentes/ferramentas/memória; Sprint 4 traz dataset ampliado e medição comparável.
