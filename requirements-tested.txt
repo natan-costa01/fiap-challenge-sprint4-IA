@@ -1,0 +1,6 @@
+openai-agents==0.20.0
+openai==2.54.0
+litellm==1.104.0
+reportlab==4.4.9
+httpx==0.28.1
+socksio==1.0.0

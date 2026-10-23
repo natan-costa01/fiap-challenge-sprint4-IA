@@ -1,0 +1,7 @@
+{
+  "status": "no_completed_manual_verdicts_found",
+  "source": "openai_goodwe_agentes.ipynb markdown cell 16; gemini_goodwe_agentes.ipynb markdown cell 17; README.md",
+  "functional_claim": "README anuncia 3/3 aprovados; ambos notebooks exibem 3/3 por heurísticas permissivas",
+  "security_claim": "Tabela traz Adequado (esperado), com instrução preencher após executar; não é evidência de revisão humana concluída",
+  "required_followup": "Revisor humano deve registrar notas reais, nome, data e justificativa nos mesmos casos antes de comparar acordo/desacordo com LLM judge"
+}
